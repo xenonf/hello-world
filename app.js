@@ -1,1 +1,3 @@
-alert("abu el fod");
+function showme(){
+alert('hello');
+}
