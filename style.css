@@ -2,3 +2,7 @@ p{
 color:Red;
 background-color:green;
 }
+button{
+background-color:red;
+border-radius:10px;
+}
