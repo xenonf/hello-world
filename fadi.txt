@@ -8,3 +8,24 @@ my name is what ?
 
 
 tiki tiki lame freaking shady
+
+cbtn_python_01 - Course Introduction
+cbtn_python_02 - Introduction to Python
+cbtn_python_03 - Data Types, Part I
+cbtn_python_04 - Data Types, Part II
+cbtn_python_05 - Statements, Documentation, and Help
+cbtn_python_06 - Strings, Revisited
+cbtn_python_07 - Control Flow, Part I
+cbtn_python_08 - Control Flow, Part II
+cbtn_python_09 - Data Structures, Revisited
+cbtn_python_10 - Functions
+cbtn_python_11 - File Handling
+cbtn_python_12 - Accessing the Network and Internet
+cbtn_python_13 - Exception Handling
+cbtn_python_14 - Modular Programming
+cbtn_python_15 - Object-Oriented Programming
+cbtn_python_16 - Advanced Topics
+cbtn_python_17 - GUI Development
+cbtn_python_18 - Python Database Access
+cbtn_python_19 - Porting Python Code
+cbtn_python_20 - Python Frameworks and IDEs
